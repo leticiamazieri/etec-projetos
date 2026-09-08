@@ -1,26 +1,19 @@
-# 🏷️ Calculadora de Desconto
+⚡ Consumo de Energia
 
-## 🎯 Objetivo
+🎯 Objetivo
 
-Programa desenvolvido em **Python** para calcular o valor de um produto após a aplicação de um desconto.
+Programa desenvolvido em Python para calcular o consumo mensal estimado de energia de um aparelho.
+O usuário informa o nome do aparelho, sua potência em watts e o tempo médio de uso diário.
 
-## 🐍 Tecnologia
+🧮 Fórmula
+consumoMensal = (potencia × horasDia × 30) / 1000
 
-* Python 3
+O resultado é apresentado em kWh/mês.
 
-## 🧮 Fórmula
+▶️ Como executar
 
-```text
-desconto = valor × (porcentagem / 100)
-valor final = valor - desconto
-```
+Execute o arquivo app.py pelo terminal:
 
-## ▶️ Como executar
+python app.py
 
-No terminal, execute:
-
-```bash
-python desconto.py
-```
-
-Digite o valor do produto e a porcentagem de desconto quando solicitado.
+Depois, informe os dados solicitados pelo programa.
