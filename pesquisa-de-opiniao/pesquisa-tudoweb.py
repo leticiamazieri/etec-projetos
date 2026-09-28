@@ -1,4 +1,4 @@
-# Pesquisa de Opinião - TudoWeb
+# Pesquisa de Opinião TudoWeb
 # O programa realiza uma pesquisa com 50 entrevistados
 # e conta as respostas EXCELENTE e RUIM.
 
